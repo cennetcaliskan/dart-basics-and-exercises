@@ -1,17 +1,17 @@
-# udemyegitim
+# Dart Learning & Exercise Repository 🚀
 
-A new Flutter project.
+Bu depo, Dart programlama dili öğrenme sürecimdeki temel kavramları, algoritmaları ve Nesne Yönelimli Programlama (OOP) çalışmalarımı topladığım kişisel çalışma alanımı içermektedir.
 
-## Getting Started
+## 📁 Klasör Yapısı
 
-This project is a starting point for a Flutter application.
+Proje, düzenli ve anlaşılır olması için konularına göre şu alt klasörlere ayrılmıştır:
 
-A few resources to get you started if this is your first Flutter project:
+* `01_temeller/` - Temel değişkenler, veri tipleri ve temel komutlar.
+* `02_donguler_ve_kosullar/` - If-else yapıları, switch-case ve döngü egzersizleri (for, while).
+* `04_oop_siniflar/` - Sınıflar (Classes), nesneler, constructor yapıları ve OOP prensipleri.
+* `05_odevler/` - Eğitim sürecinde çözülen pratik ödevler ve uygulamalar.
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## 🛠️ Kullanılan Teknolojiler
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* **Programlama Dili:** Dart
+* **Geliştirme Ortamı:** Android Studio
